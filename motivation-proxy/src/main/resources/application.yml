@@ -1,0 +1,4 @@
+proxy:
+  list: "motivation-proxy/src/main/resources/proxy.list"
+  inet:
+    addr: "https://ya.ru"

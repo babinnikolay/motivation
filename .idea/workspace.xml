@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11fe2a2a-73f1-4c4a-aa11-76c32d9f9a07" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IVV23G5Y8Qs4m2e9qyuub45ubJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "0413e69559d11f31cb09b282b0f73820",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.hukola.motivationproxy.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.hukola.motivationproxy.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MotivationHttpclient">
+    <configuration name="ProxyServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="motivation-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.hukola.motivationproxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.hukola.motivationproxy.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.hukola.motivationproxy.service.ProxyServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyServiceTest.whenCallNextThenGetProxyServerDto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="motivation-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.hukola.motivationproxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.hukola.motivationproxy.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.hukola.motivationproxy.service.ProxyServiceTest" />
+      <option name="METHOD_NAME" value="whenCallNextThenGetProxyServerDto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyServiceTest.whenCreateProxyServiceThenRenewProxies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="motivation-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.hukola.motivationproxy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.hukola.motivationproxy.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.hukola.motivationproxy.service.ProxyServiceTest" />
+      <option name="METHOD_NAME" value="whenCreateProxyServiceThenRenewProxies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotivationHttpclient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="motivation-httpclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.hukola.motivationhttpclient.MotivationHttpclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotivationProxy" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="motivation-proxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.hukola.motivationproxy.MotivationProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.hukola.motivationproxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MotivationProxy" />
+        <item itemvalue="JUnit.ProxyServiceTest" />
+        <item itemvalue="JUnit.ProxyServiceTest.whenCreateProxyServiceThenRenewProxies" />
+        <item itemvalue="JUnit.ProxyServiceTest.whenCallNextThenGetProxyServerDto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11fe2a2a-73f1-4c4a-aa11-76c32d9f9a07" name="Changes" comment="" />
+      <created>1670266527453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670266527453</updated>
+      <workItem from="1670266529007" duration="4181000" />
+      <workItem from="1670333185285" duration="294000" />
+      <workItem from="1670333506947" duration="678000" />
+      <workItem from="1670339248562" duration="109000" />
+      <workItem from="1670339367221" duration="169000" />
+      <workItem from="1670347040146" duration="5750000" />
+      <workItem from="1670356041182" duration="1627000" />
+      <workItem from="1670395501620" duration="76000" />
+      <workItem from="1670398515395" duration="101000" />
+      <workItem from="1670434823963" duration="1844000" />
+      <workItem from="1671740486272" duration="201000" />
+      <workItem from="1671740699040" duration="100000" />
+      <workItem from="1671740824948" duration="487000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: module proxy queue">
+      <created>1670270682621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670270682621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: proxy health check, renew method, tests">
+      <created>1670357429725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670357429725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: simple http client">
+      <created>1671738714943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671738714943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/motivation-httpclient" />
+    </ignored-roots>
+    <MESSAGE value="feat: module proxy queue" />
+    <MESSAGE value="feat: proxy health check, renew method, tests" />
+    <MESSAGE value="feat: simple http client" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: simple http client" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/motivation$ProxyServiceTest.ic" NAME="ProxyServiceTest Coverage Results" MODIFIED="1670357226671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.hukola.motivationproxy.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
